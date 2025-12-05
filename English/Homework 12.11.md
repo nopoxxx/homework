@@ -38,3 +38,32 @@
 4. want to
 5. want to
 6. won’t
+# 4C
+# №1
+## a
+1. 3
+2. 10
+3. 5
+4. 2
+5. 1
+6. 6
+7. 7
+8. 4
+9. 9
+10. 8
+## c
+1. Would you like me to bring anything?
+2. Are you doing anything this Saturday?
+3. This week’s really busy for us.
+4. What time shall we come round?
+5. What are you doing ot Tuesday next week?
+6. Would you like to come round for lunch?
+7. I can’t do Thursday this week.
+8. Is this Sunday ok for you?
+## e
+1. meeting
+2. Mum
+3. to the cinema
+4. work conference
+5. in Blackpool
+6. Saturday
